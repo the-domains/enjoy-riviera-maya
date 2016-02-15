@@ -1,7 +1,7 @@
 name: Enjoy Riviera Maya
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.32206
+typography_spectrum: 0.32025
 title: 'Playa del Carmen Private Tours & Scuba Diving '
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#a95c5e'
     - '#b39d76'
   brandStrength: 0.6875
-  lightness: 0.8125
+  lightness: 1
   saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
